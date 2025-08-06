@@ -4,13 +4,13 @@ This is the repository for [*Counterfactual Situation Testing: From Single to Mu
 
 ## EAAMO'23 version
 
-An earlier version of this work, [*Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference*](https://dl.acm.org/doi/10.1145/3617694.3623222), was published at ACM EAAMO 2023. See the *eeamo2023* branch for details. The code changed for the journal version; please use the *master* branch for the latest code.
+An earlier version of this work, [*Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference*](https://dl.acm.org/doi/10.1145/3617694.3623222), was published at ACM EAAMO 2023. See the *eeamo2023* branch for details. The code has changed for the journal version; please use the *master* branch for the latest code.
 
 ## References
 
-*Counterfactual Situation Testing: From Single to Multidimensional Discrimination*. Jose M. Alvarez, and Salvatore Ruggieri. Forthcoming in Journal of Artificial Intelligence Research (JAIR), 2025.
+*Counterfactual Situation Testing: From Single to Multidimensional Discrimination*. Jose M. Alvarez, and Salvatore Ruggieri. Journal of Artificial Intelligence Research (JAIR), 82, 2279-2323, 2025.
 
-If you make use of this code, the CST algorithm, or the generated synthetic data in your work, please cite the following paper:
+If you make use of the code, the CST algorithm, or the generated synthetic data in your work, please cite the following paper:
 
 <pre><code>
 @article{DBLP:journals/jair/AlvarezR25,
